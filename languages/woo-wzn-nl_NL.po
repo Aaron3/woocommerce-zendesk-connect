@@ -435,7 +435,7 @@ msgid "Zendesk Connect"
 msgstr "Zendesk Connect"
 
 #: inc/wzn-funct.php:446
-msgid "Thank you for contacting us. Your message is successfully sent."
+msgid "Thank you for contacting us. Your message was successfully sent."
 msgstr "Bedankt voor je bericht. Je bericht is succesvol verzonden."
 
 #: inc/wzn-funct.php:450
